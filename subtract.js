@@ -1,3 +1,3 @@
-function subtractNumber(num, val) {
+function func(num, val) {
   return num - val;
 }
